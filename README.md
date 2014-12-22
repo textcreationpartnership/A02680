@@ -35,9 +35,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Exile exiled Occasioned by a mandat from Rome, procured by Tho. Flemming alias Barnwell, archb. of D
+
+1. To the Reader.
+
+1. A Letter from Card Antonio Barbarini, Praefect of the ſacred Congregation of Cardinalls De propagandâ fide, unto Tho. Flemming Archb. of Dublin, and by him publiſhed not onely thorough this whole Dioceſſe of Dublin, but generally thoroughout all Ireland, in the moneths of August and September, of this preſent yeare 1635.
+
 #####Body#####
-Exile exiled Occasioned by a mandat from Rome, procured by Tho. Flemming alias Barnwell, archb. of D
+
+1. CAP. I.
+
+1. CAP. II. An objection againſt ſome points of the former diſcourſe anſwered.
+
+1. CAP. III. The informations, by which the Archb. & his Friars procured from the Congregation of Cardinalls De propagandâ fide, the Commiſsion of Paul Harris his exile from the Dioceſſe of Dublin.
+
+1. CAP. IV. Paul Harris not admitted to any hearing of his Dioceſan, was forced to ſeeke for Iuſtice at the hands of the Civill Magiſtrate.
+
+1. CAP. V. Of the want of judgment and diſcretion in the Biſhop and Friars, the perſecutors of Paul Harris.
+
+1. CAP. VI. P. H. is in hope, that the Archb. and his Friars, looking back into themſelves, will in time be reclaymed, and become his friends.
+
+1. CAP. VII. Of the conveyance of theſe Letters from Rome, into Ireland, and by what meanes they came unto the hands of the Archb. Flemming.
+
 **Types of content**
 
   * There are 15 **verse** lines!
